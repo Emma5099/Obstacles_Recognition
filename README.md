@@ -1,5 +1,5 @@
 # Obstacles Recognition
-Detects with two methods (image processing and neural network), the shape and color of an obstacle.
+## Detects with two methods (image processing and neural network), the shape and color of an obstacle.
 
 This project is a part of a bigger project: the command of a robot (with Stm32, Raspberry, communication master-slave)for it to move in space, switch on the light, capture sound, diffuse sound...)
 A part of the project was to take pictures of obstacles, to tell what type of obstacles they were and to avoid them.
